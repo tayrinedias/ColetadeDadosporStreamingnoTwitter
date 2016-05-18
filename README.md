@@ -1,4 +1,7 @@
 # ColetadeDadosporStreamingnoTwitter
+
+# Código criado por Alê Gomes (alegom.es)
+
 Código de coleta de tweets por Streaming utilizando a biblioteca Tweepy, no Python.
 
 Primeiramente, você precisa criar uma App no site de desenvolvedores do Twitter: https://apps.twitter.com/
